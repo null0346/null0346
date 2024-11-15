@@ -1,18 +1,18 @@
 <div align="center">
-  <img height="150" src="pfp.jpg"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/170588852?v=4"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.youtube.com/@icastreallybadwifi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="72" height="60" alt="youtube logo"  />
   </a>
   <a href="https://x.com/daveandbambi25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="72" height="60" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/BKjAGzUsWS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="72" height="60" alt="discord logo"  />
   </a>
 </div>
 
