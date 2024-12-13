@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">canadian haxe programmer (beginner)<br><br>developer of SingularityOS soon<br>developer of FNF Vision Engine</p>
+<p align="center">canadian haxe programmer (beginner)<br><br>developer of SingularityOS soon<br>developer of FNF Hazel Engine</p>
 
 ###
 
